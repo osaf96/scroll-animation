@@ -1,4 +1,5 @@
-# Ali
+# Scroll-animation using Threejs 
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
